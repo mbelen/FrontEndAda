@@ -1,0 +1,114 @@
+*{
+  box-sizing: border-box;
+  margin: 0px;
+}
+
+header{
+  background: grey;
+  width: auto;
+  height: 100px;
+  display: block;
+  text-align: center;
+}
+h1{
+  font-size: 25px;
+  color: white;
+  font-family: arial;
+  text-align: center;
+  padding: 30px;
+}
+#perri-left{
+  margin: 10px;
+  float: left;
+}
+#perri-right{
+  margin: 10px;
+  float: right;
+}
+#dog-blue{
+margin: 15px;
+}
+
+button {
+    background-color: orange;
+    border: none;
+    color: white;
+    padding: 10px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+h6{
+  color: black;
+}
+
+div{
+  padding: 30px;
+  text-align: center;
+}
+
+a{
+  font-size: arial;
+  color: back;
+  text-align: center;
+  font-family: arial;
+  text-decoration: none;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: violet;
+}
+
+div .container{
+margin: 30px;
+}
+
+section figure.violeta{
+  background: #660066;
+  width: 40%;
+  display:inline-block;
+  height: 400px;
+  margin: 20px;
+}
+
+.azul{
+  background: blue;
+  width: 84%;
+  height: 100px;
+  display: inline-block;
+  margin: 10px;
+  text-align: right;
+}
+#dog-yellow{
+  margin: 20px;
+}
+
+.amarillo{
+  background: yellow;
+  height:200px;
+  width: 84%;
+  display: inline-block;
+  margin:15px;
+  text-align: left;
+}
+
+.verde{
+  background: green;
+  width: 26%;
+  height: 500px;
+  display:inline-block;
+  margin: 15px;
+  padding: 10px;
+}
+
+article{
+  background: green;
+  width: 30%;
+  margin: 0 auto;
+}
